@@ -1,0 +1,928 @@
+[
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/the-detroit-people-mover-detroit", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 93, 
+            "name": "The Detroit People Mover", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/the-detroit-people-mover-detroit", 
+            "is_closed": false, 
+            "phone": "3132242160", 
+            "snippet_text": "This is a great thing to do for out-of-towers. You get a great looks at the major places of Detroit. And only for 75-cents! It was clean and we had some...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/4DEW-nWZxYfswJHs1nxYdg/ms.jpg", 
+            "categories": [
+                [
+                    "Transportation", 
+                    "transport"
+                ]
+            ], 
+            "display_phone": "+1-313-224-2160", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "the-detroit-people-mover-detroit", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/fLlI6QWDVwqJ-dWO9AVyug/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "535 Griswold", 
+                    "Ste 400", 
+                    "Downtown Detroit", 
+                    "Detroit, MI 48226"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downtown Detroit"
+                ], 
+                "postal_code": "48226", 
+                "country_code": "US", 
+                "address": [
+                    "535 Griswold", 
+                    "Ste 400"
+                ], 
+                "coordinate": {
+                    "latitude": 42.333241609069, 
+                    "longitude": -83.052439339038
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/cobo-conference-center-detroit", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 35, 
+            "name": "Cobo Conference Center", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/cobo-conference-center-detroit", 
+            "is_closed": false, 
+            "phone": "3138778111", 
+            "snippet_text": "Went there yesterday for the 2015 North America International Auto Show (NAIAS).  It was huge and it was an experience to actually be there.  If you want to...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/IAm5Rsa40pe2hqseVMccng/ms.jpg", 
+            "categories": [
+                [
+                    "Music Venues", 
+                    "musicvenues"
+                ], 
+                [
+                    "Venues & Event Spaces", 
+                    "venues"
+                ]
+            ], 
+            "display_phone": "+1-313-877-8111", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "cobo-conference-center-detroit", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/80E7Fb2HsfXFJQO1yS9juQ/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "1 Washington Blvd", 
+                    "Downtown Detroit", 
+                    "Detroit, MI 48226"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downtown Detroit"
+                ], 
+                "postal_code": "48226", 
+                "country_code": "US", 
+                "address": [
+                    "1 Washington Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 42.3267132150732, 
+                    "longitude": -83.0494330755879
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.0, 
+            "mobile_url": "http://m.yelp.com/biz/detroit-marriott-at-the-renaissance-center-detroit", 
+            "rating_img_url": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png", 
+            "review_count": 139, 
+            "name": "Detroit Marriott at the Renaissance Center", 
+            "rating_img_url_small": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png", 
+            "url": "http://www.yelp.com/biz/detroit-marriott-at-the-renaissance-center-detroit", 
+            "is_closed": false, 
+            "phone": "3135688000", 
+            "snippet_text": "Having stayed here again for Youmacon 2014 and Midwest Media Expo 2014 I can at safely say that nothing much has changed from my prior review of the place....", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/tj_6VDqfeZTOs6NIkOwl2A/ms.jpg", 
+            "categories": [
+                [
+                    "Hotels", 
+                    "hotels"
+                ]
+            ], 
+            "display_phone": "+1-313-568-8000", 
+            "rating_img_url_large": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png", 
+            "id": "detroit-marriott-at-the-renaissance-center-detroit", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/8KgqcR4JQazZSQ3o4EG3Yg/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "400 Renaissance Dr", 
+                    "Downtown Detroit", 
+                    "Detroit, MI 48243"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downtown Detroit"
+                ], 
+                "postal_code": "48243", 
+                "country_code": "US", 
+                "address": [
+                    "400 Renaissance Dr"
+                ], 
+                "coordinate": {
+                    "latitude": 42.328767, 
+                    "longitude": -83.041019
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/courtyard-detroit-downtown-detroit", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 30, 
+            "name": "Courtyard Detroit Downtown", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/courtyard-detroit-downtown-detroit", 
+            "is_closed": false, 
+            "phone": "3132227700", 
+            "snippet_text": "The hotel is a great option for staying downtown! \n\nWe got a room for a bachelorette party in lieu of staying at one of the pricier casinos. The rooms were...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/gyY6J6KNtiRQQ4ndhK9TTw/ms.jpg", 
+            "categories": [
+                [
+                    "Hotels", 
+                    "hotels"
+                ]
+            ], 
+            "display_phone": "+1-313-222-7700", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "courtyard-detroit-downtown-detroit", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/eBiouI_N-PiaHRorghDqkQ/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "333 East Jefferson Ave", 
+                    "Downtown Detroit", 
+                    "Detroit, MI 48226"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Downtown Detroit", 
+                    "Bricktown"
+                ], 
+                "postal_code": "48226", 
+                "country_code": "US", 
+                "address": [
+                    "333 East Jefferson Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 42.3305130004883, 
+                    "longitude": -83.0416564941406
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/doubletree-suites-by-hilton-fort-shelby-detroit", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 51, 
+            "name": "DoubleTree Suites by Hilton - Fort Shelby", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/doubletree-suites-by-hilton-fort-shelby-detroit", 
+            "is_closed": false, 
+            "phone": "3139635600", 
+            "snippet_text": "I've stayed here a handful of times when coming to the Detroit Electronic Music Festival (now called Movement).  We typically stay in a 2 room suite which...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/yZVArB83Nas6ZM8WRLB8dA/ms.jpg", 
+            "categories": [
+                [
+                    "Hotels", 
+                    "hotels"
+                ]
+            ], 
+            "display_phone": "+1-313-963-5600", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "doubletree-suites-by-hilton-fort-shelby-detroit", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/vK2yQSvzDiv8mqs8GiqqCQ/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "525 W Lafayette Blvd", 
+                    "Downtown Detroit", 
+                    "Detroit, MI 48226"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downtown Detroit"
+                ], 
+                "postal_code": "48226", 
+                "country_code": "US", 
+                "address": [
+                    "525 W Lafayette Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 42.3293423, 
+                    "longitude": -83.0532074
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/detroit-metropolitan-airport-detroit", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 889, 
+            "name": "Detroit Metropolitan Airport", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/detroit-metropolitan-airport-detroit", 
+            "is_closed": false, 
+            "phone": "7342477678", 
+            "snippet_text": "Coming from the brutally busy and chaotic LAX, Detroits airport is like a dream!  You can pull in easily and drop people off in a calm relaxed manner and...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/h8GZ-2La7BbE3YDt6rtolw/ms.jpg", 
+            "categories": [
+                [
+                    "Airports", 
+                    "airports"
+                ]
+            ], 
+            "display_phone": "+1-734-247-7678", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "detroit-metropolitan-airport-detroit", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/YVEhbRtQl0mGrj3o9NjxgA/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "1 Detroit Metropolitan Airport", 
+                    "Downriver", 
+                    "Detroit, MI 48242"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downriver"
+                ], 
+                "postal_code": "48242", 
+                "country_code": "US", 
+                "address": [
+                    "1 Detroit Metropolitan Airport"
+                ], 
+                "coordinate": {
+                    "latitude": 42.2220979682882, 
+                    "longitude": -83.3482933044434
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/faygo-beverages-detroit", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 48, 
+            "name": "Faygo Beverages", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/faygo-beverages-detroit", 
+            "is_closed": false, 
+            "phone": "3139251600", 
+            "snippet_text": "You know your from Metro Detroit when you reach for some of this sugary sweetness over Pepsi. It does take me back to when drinking a 3 liter for 89 cents...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/jcCc2_2IavQR8WYQtfYjAA/ms.jpg", 
+            "categories": [
+                [
+                    "Local Flavor", 
+                    "localflavor"
+                ]
+            ], 
+            "display_phone": "+1-313-925-1600", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "faygo-beverages-detroit", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/B7oEp8bDkA67w1mK68KzwA/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "3579 Gratiot Ave", 
+                    "Detroit, MI 48207"
+                ], 
+                "geo_accuracy": 8.0, 
+                "postal_code": "48207", 
+                "country_code": "US", 
+                "address": [
+                    "3579 Gratiot Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 42.362896, 
+                    "longitude": -83.026268
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/atheneum-suite-hotel-detroit", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 67, 
+            "name": "Atheneum Suite Hotel", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/atheneum-suite-hotel-detroit", 
+            "is_closed": false, 
+            "phone": "3139622323", 
+            "snippet_text": "It was my first time in Detroit and I didn't know much about the city. I had to stay for two days after attending a meeting and I wanted to take advantage...", 
+            "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/r-j8dmQUB_EfLMOBQcRkqQ/ms.jpg", 
+            "categories": [
+                [
+                    "Hotels", 
+                    "hotels"
+                ]
+            ], 
+            "display_phone": "+1-313-962-2323", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "atheneum-suite-hotel-detroit", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/Gcc4RczLNTN4-XoCI0bbmA/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "1000 Brush St", 
+                    "Downtown Detroit", 
+                    "Detroit, MI 48226"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Downtown Detroit", 
+                    "Greektown", 
+                    "Bricktown"
+                ], 
+                "postal_code": "48226", 
+                "country_code": "US", 
+                "address": [
+                    "1000 Brush St"
+                ], 
+                "coordinate": {
+                    "latitude": 42.3340034484863, 
+                    "longitude": -83.0427093505859
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/marche-du-nain-rouge-detroit", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 13, 
+            "name": "Marche du Nain Rouge", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/marche-du-nain-rouge-detroit", 
+            "is_closed": false, 
+            "snippet_text": "I was among the thousands of Metro Detroit denizens that helped to oust the Nain Rouge from Detroit on Sunday.\nNo I didn't have a physical interaction with...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/Kf1NwuIPIX9ZPnPmzhONdA/ms.jpg", 
+            "categories": [
+                [
+                    "Local Flavor", 
+                    "localflavor"
+                ]
+            ], 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "marche-du-nain-rouge-detroit", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/hAoMgDI2hAUmhc6KBpckkA/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "Third Street and Forest", 
+                    "Cass Corridor", 
+                    "Detroit, MI 48201"
+                ], 
+                "geo_accuracy": 7.0, 
+                "neighborhoods": [
+                    "Cass Corridor", 
+                    "Midtown"
+                ], 
+                "postal_code": "48201", 
+                "country_code": "US", 
+                "address": [
+                    "Third Street and Forest"
+                ], 
+                "coordinate": {
+                    "latitude": 42.3522987, 
+                    "longitude": -83.069931
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-westin-book-cadillac-detroit-detroit", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 150, 
+            "name": "The Westin Book Cadillac Detroit", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-westin-book-cadillac-detroit-detroit", 
+            "is_closed": false, 
+            "phone": "3134421600", 
+            "snippet_text": "We were very happy with our stay here.  We didn't take advantage of many of the amenities, but it served us well for our 1 night stay.  The location was...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/zKs2B4ohmZwhpraQ1PnbmA/ms.jpg", 
+            "categories": [
+                [
+                    "Hotels", 
+                    "hotels"
+                ]
+            ], 
+            "display_phone": "+1-313-442-1600", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "the-westin-book-cadillac-detroit-detroit", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/oKDMhs4Td7bSICRgyCeBUw/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "1114 Washington Boulevard", 
+                    "Downtown Detroit", 
+                    "Detroit, MI 48226"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Downtown Detroit"
+                ], 
+                "postal_code": "48226", 
+                "country_code": "US", 
+                "address": [
+                    "1114 Washington Boulevard"
+                ], 
+                "coordinate": {
+                    "latitude": 42.33189471066, 
+                    "longitude": -83.0508564412594
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.0, 
+            "mobile_url": "http://m.yelp.com/biz/crowne-plaza-detroit-downtown-riverfront-detroit", 
+            "rating_img_url": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png", 
+            "review_count": 41, 
+            "name": "Crowne Plaza Detroit Downtown Riverfront", 
+            "rating_img_url_small": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png", 
+            "url": "http://www.yelp.com/biz/crowne-plaza-detroit-downtown-riverfront-detroit", 
+            "is_closed": false, 
+            "phone": "3139650200", 
+            "snippet_text": "I'll be honest and say CP'S are iffy. Some are great remodels, some not so much. I probably would have chosen differently for my first time in Detroit but...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/yLptkg51LgdSlbyMYk2IIQ/ms.jpg", 
+            "categories": [
+                [
+                    "Venues & Event Spaces", 
+                    "venues"
+                ], 
+                [
+                    "Hotels", 
+                    "hotels"
+                ]
+            ], 
+            "display_phone": "+1-313-965-0200", 
+            "rating_img_url_large": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png", 
+            "id": "crowne-plaza-detroit-downtown-riverfront-detroit", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/6Row7ZjtFJtSveC-qaaUvg/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "2 Washington  Blvd", 
+                    "Downtown Detroit", 
+                    "Detroit, MI 48226"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downtown Detroit"
+                ], 
+                "postal_code": "48226", 
+                "country_code": "US", 
+                "address": [
+                    "2 Washington  Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 42.327921, 
+                    "longitude": -83.04768
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/noel-night-detroit-3", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 13, 
+            "name": "Noel Night", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/noel-night-detroit-3", 
+            "is_closed": false, 
+            "snippet_text": "Amazing and calming event which brings together and elevates Detroit's small businesses.", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/FU2VR5rWtHhPPAOMHSyM6Q/ms.jpg", 
+            "categories": [
+                [
+                    "Local Flavor", 
+                    "localflavor"
+                ]
+            ], 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "noel-night-detroit-3", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "Downtown Detroit", 
+                    "Detroit, MI"
+                ], 
+                "neighborhoods": [
+                    "Downtown Detroit"
+                ], 
+                "country_code": "US", 
+                "address": [], 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/gm-renaissance-center-detroit-2", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 28, 
+            "name": "GM Renaissance Center", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/gm-renaissance-center-detroit-2", 
+            "is_closed": false, 
+            "phone": "3135688150", 
+            "snippet_text": "These buildings are so unique and one of the most recognizable aspects of the Detroit skyline.  Inside the RenCen, there are a variety of retail, stores and...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/D2aKWz1I-IIJjDXNwirKbA/ms.jpg", 
+            "categories": [
+                [
+                    "Hotels & Travel", 
+                    "hotelstravel"
+                ]
+            ], 
+            "display_phone": "+1-313-568-8150", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "gm-renaissance-center-detroit-2", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/KEwrNvR16Qj1haasSTJPZA/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "Renaissance Ctr", 
+                    "Downtown Detroit", 
+                    "Detroit, MI 48243"
+                ], 
+                "geo_accuracy": 6.0, 
+                "neighborhoods": [
+                    "Downtown Detroit"
+                ], 
+                "postal_code": "48243", 
+                "country_code": "US", 
+                "address": [
+                    "Renaissance Ctr"
+                ], 
+                "coordinate": {
+                    "latitude": 42.3299408, 
+                    "longitude": -83.0406113
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.0, 
+            "mobile_url": "http://m.yelp.com/biz/holiday-inn-express-and-suites-detroit-downtown-detroit", 
+            "rating_img_url": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png", 
+            "review_count": 36, 
+            "name": "Holiday Inn Express & Suites Detroit Downtown", 
+            "rating_img_url_small": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png", 
+            "url": "http://www.yelp.com/biz/holiday-inn-express-and-suites-detroit-downtown-detroit", 
+            "is_closed": false, 
+            "phone": "3138877000", 
+            "snippet_text": "Holiday Inn Express is located very central on Washington Ave in walking distance to all arenas-/attractions (if you like to walk around in Detroit during...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/dZ9q_YYjIaThlUzmqIJzig/ms.jpg", 
+            "categories": [
+                [
+                    "Hotels", 
+                    "hotels"
+                ], 
+                [
+                    "Venues & Event Spaces", 
+                    "venues"
+                ]
+            ], 
+            "display_phone": "+1-313-887-7000", 
+            "rating_img_url_large": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png", 
+            "id": "holiday-inn-express-and-suites-detroit-downtown-detroit", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/LeZJefLBoDFCUQ2-Y9JcXA/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "1020 Washington Blvd", 
+                    "Downtown Detroit", 
+                    "Detroit, MI 48226"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Downtown Detroit"
+                ], 
+                "postal_code": "48226", 
+                "country_code": "US", 
+                "address": [
+                    "1020 Washington Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 42.3308487, 
+                    "longitude": -83.0505219
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 1.5, 
+            "mobile_url": "http://m.yelp.com/biz/greyhound-bus-lines-detroit", 
+            "rating_img_url": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/11e62fee886f/ico/stars/v1/stars_1_half.png", 
+            "review_count": 11, 
+            "name": "Greyhound Bus Lines", 
+            "rating_img_url_small": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/edfabe6dfcec/ico/stars/v1/stars_small_1_half.png", 
+            "url": "http://www.yelp.com/biz/greyhound-bus-lines-detroit", 
+            "is_closed": false, 
+            "phone": "3139618011", 
+            "snippet_text": "This is my second time here. Luckily my connecting greyhound bus made it on time. We only waited 15 minutes and boarded the bus. The staff was very friendly...", 
+            "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/MfqjwsYv_ELgbiTa4YqW6Q/ms.jpg", 
+            "categories": [
+                [
+                    "Public Transportation", 
+                    "publictransport"
+                ]
+            ], 
+            "display_phone": "+1-313-961-8011", 
+            "rating_img_url_large": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/4b88f27b8b84/ico/stars/v1/stars_large_1_half.png", 
+            "id": "greyhound-bus-lines-detroit", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/5t1FXzN6nfMbhGUZ79iP2A/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "1001 Howard Street", 
+                    "Corktown", 
+                    "Detroit, MI 48226"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Corktown"
+                ], 
+                "postal_code": "48226", 
+                "country_code": "US", 
+                "address": [
+                    "1001 Howard Street"
+                ], 
+                "coordinate": {
+                    "latitude": 42.32798, 
+                    "longitude": -83.0586472
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/theatre-bizarre-detroit", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 13, 
+            "name": "Theatre Bizarre", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/theatre-bizarre-detroit", 
+            "is_closed": false, 
+            "snippet_text": "So many awesome costumes and performances!  I had no idea this would be 7 floors of actors, music, and shows of the \"bizarre\", but I loved that it was from...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/WuK4ukTAXIMb_5H0BytoVw/ms.jpg", 
+            "categories": [
+                [
+                    "Local Flavor", 
+                    "localflavor"
+                ]
+            ], 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "theatre-bizarre-detroit", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/B3shL9mH3HiEsJN3wmopxA/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "500 Temple St", 
+                    "Cass Corridor", 
+                    "Detroit, MI 48201"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Cass Corridor", 
+                    "Midtown"
+                ], 
+                "postal_code": "48201", 
+                "country_code": "US", 
+                "address": [
+                    "500 Temple St"
+                ], 
+                "coordinate": {
+                    "latitude": 42.341721, 
+                    "longitude": -83.060043
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/hilton-garden-inn-detroit-downtown-detroit-2", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 35, 
+            "name": "Hilton Garden Inn Detroit Downtown", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/hilton-garden-inn-detroit-downtown-detroit-2", 
+            "is_closed": false, 
+            "phone": "3139670900", 
+            "snippet_text": "I try very hard to stay within the Hilton chain as a Diamond level member the perks are worth the effort and this was the best I could find from Hilton...", 
+            "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/63REuE3wrIj_HewvHF5aVg/ms.jpg", 
+            "categories": [
+                [
+                    "Hotels", 
+                    "hotels"
+                ]
+            ], 
+            "display_phone": "+1-313-967-0900", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "hilton-garden-inn-detroit-downtown-detroit-2", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/pLQI-IiJX4oPZbb7Qkkmeg/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "351 Gratiot Ave", 
+                    "Downtown Detroit", 
+                    "Detroit, MI 48226"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Downtown Detroit"
+                ], 
+                "postal_code": "48226", 
+                "country_code": "US", 
+                "address": [
+                    "351 Gratiot Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 42.335495, 
+                    "longitude": -83.0450897
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/aloft-detroit-at-the-david-whitney-detroit", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 14, 
+            "name": "Aloft Detroit at the David Whitney", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/aloft-detroit-at-the-david-whitney-detroit", 
+            "is_closed": false, 
+            "phone": "3132371700", 
+            "snippet_text": "There are a few specific individuals that you rarely wouldn't recognize but are part of a \"big picture\" mind like view atypical to certain people but needs...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/EBD9FRgMxOLGtrcZF0zQ9A/ms.jpg", 
+            "categories": [
+                [
+                    "Hotels", 
+                    "hotels"
+                ]
+            ], 
+            "display_phone": "+1-313-237-1700", 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "aloft-detroit-at-the-david-whitney-detroit", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/wGAR3y4UABFzDPOfyI6g1w/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "One Park Avenue", 
+                    "Downtown Detroit", 
+                    "Detroit, MI 48226"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Downtown Detroit"
+                ], 
+                "postal_code": "48226", 
+                "country_code": "US", 
+                "address": [
+                    "One Park Avenue"
+                ], 
+                "coordinate": {
+                    "latitude": 42.3358865082264, 
+                    "longitude": -83.0503588914871
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/detroit-belle-isle-grand-prix-detroit", 
+            "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 7, 
+            "name": "Detroit Belle Isle Grand Prix", 
+            "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/detroit-belle-isle-grand-prix-detroit", 
+            "is_closed": false, 
+            "snippet_text": "The Detroit Grand Prix is an amazing experience!  They are organized!  The American Marketing at its best!!!!\nGreat food,  booths!\nCar race was terrific!...", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/fT1HFNI_DU8NaRWC0pINgg/ms.jpg", 
+            "categories": [
+                [
+                    "Automotive", 
+                    "auto"
+                ], 
+                [
+                    "Local Flavor", 
+                    "localflavor"
+                ], 
+                [
+                    "Hotels & Travel", 
+                    "hotelstravel"
+                ]
+            ], 
+            "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "detroit-belle-isle-grand-prix-detroit", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/RftFvQte3BCDkMvEoKLLlw/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "Casino Way and Sunset Dr", 
+                    "Detroit, MI 48207"
+                ], 
+                "geo_accuracy": 7.0, 
+                "postal_code": "48207", 
+                "country_code": "US", 
+                "address": [
+                    "Casino Way and Sunset Dr"
+                ], 
+                "coordinate": {
+                    "latitude": 42.3373489115926, 
+                    "longitude": -82.9973593832124
+                }, 
+                "state_code": "MI"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/red-bull-house-of-art-detroit", 
+            "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 6, 
+            "name": "Red Bull House Of Art", 
+            "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/red-bull-house-of-art-detroit", 
+            "is_closed": false, 
+            "phone": "3136382971", 
+            "snippet_text": "Great venue, solid vibes, great art and social experience. If you're in town during an event definitely stop by and check the vibes.", 
+            "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/GX8VhGORaolCfdHCDO9N8Q/ms.jpg", 
+            "categories": [
+                [
+                    "Art Galleries", 
+                    "galleries"
+                ], 
+                [
+                    "Local Flavor", 
+                    "localflavor"
+                ]
+            ], 
+            "display_phone": "+1-313-638-2971", 
+            "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "red-bull-house-of-art-detroit", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/yuJyXava7uK3nLE8THF4-A/ms.jpg", 
+            "location": {
+                "city": "Detroit", 
+                "display_address": [
+                    "1551 Winder St", 
+                    "Eastern Market", 
+                    "Detroit, MI 48207"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Eastern Market"
+                ], 
+                "postal_code": "48207", 
+                "country_code": "US", 
+                "address": [
+                    "1551 Winder St"
+                ], 
+                "coordinate": {
+                    "latitude": 42.3468707924608, 
+                    "longitude": -83.0376968605297
+                }, 
+                "state_code": "MI"
+            }
+        }
+    ]

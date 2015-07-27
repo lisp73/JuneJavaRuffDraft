@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head>
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+	<meta charset="ISO-8859-1">
+	<title>Insert title here</title>
+	<style>
+		html, body, #map-canvas 
+		{
+			height: 100%;
+			margin: 0;
+			padding:0;
+		}
+		
+		#map-wrapper
+		{
+			height: 400px;
+			width: 400px;
+		}
+	</style>
+</head>
+<body>
+	<div id="map-wrapper">
+    	<div id="map-canvas"></div>
+    </div>
+
+<div ng-controller="MainController">
+<button ng-click="getDataFromServer()">Fetch data from
+				server</button>
+<div ng-repeat="pizza in pizzerias">
+			<p>Pizzeria Name: {{pizza.name}}</p>
+			<p>Location: ( {{pizza.location.latitude}}, {{pizza.location.longitude}} ) </p> 
+</div>
+ 
+
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
+<script src="http://maps.googleapis.com/maps/api/js?v=3&sensor=false"></script>
+<script type="text/javascript" src="js/app.js"></script>
+</body>
+</html>

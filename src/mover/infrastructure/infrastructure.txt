@@ -1,0 +1,85 @@
+The package mover.infrastrutucture is what the name implies, the underlying elements 
+that the application depends on to work. 
+
+Why use import com.google.gson.Gson? 
+
+Gson is a Java library that can be used to convert Java Objects 
+into their JSON representation. It can also be used to convert 
+a JSON string to an equivalent Java object. Gson can work with 
+arbitrary Java objects including pre-existing objects 
+that you do not have source-code of.
+
+
+Why use import com.google.gson.reflect.TypeToken?
+public abstract class TypeToken<T>
+extends java.lang.Object
+ You can use this class to get the generic type for a class. 
+ For example, to get the generic type for Collection<Foo>, you can use:
+
+Where is this used?
+Type typeOfCollectionOfFoo = new TypeToken<Collection<Foo>>(){}.getType()
+
+enum PlaceCategory
+
+Because I'm having a variable that can take on specific values, in this case Pizzeria,
+,Parks, etc. represents certain locations near a stop at GrandCircus.This will save typing
+in the long run of our project. Example in the class using this object I would need to
+type the following
+private static final PlaceCategory pizzeria=0;
+private static final PlaceCategory gyms=1; 
+private static final ...
+	Here O'm using my enum in private final Map<PlaceCategory, List<Place>> data;
+Where PlaceCategory represents certain fixed int vars that reprtesent int's 0, 1, 2..
+
+What is the Place class for? 
+
+	Place is a bean class used to get and set the coordinates of "places of interest". Place 
+mirrors the data values represented in the json data("latitude, longitude"), name, 
+Absolute Location, etc., PlaceCategory.. 
+
+What is the public interface IYelpModelValidator used for?
+
+	It is used to represent boolean values, this interface introduces functions
+that will be implemented in various classes to find the validity of certain Businesses, Locations
+and coordinates. 
+
+It is used like this: 
+private static final IYelpModelValidator YelpModelValidator = new DefaultYelpModelValidator();
+IN the PlacePrivider class
+
+What is the IPlaceProvider used for? 
+
+	IPlaceProvider is used to define the Lists used in our servlet. 
+List<Place> FindAllPlaces();
+	List<Place> FindPlacesByCategory(PlaceCategory category);
+	List<Place> FindPlacesByTrainStop(TrainStop trainStop);
+	List<Place> FindPlacesByCategoryAndTrainStop(PlaceCategory category, 
+	TrainStop trainStop);
+	
+AbsoluteLocation is a Bean that  provides the long, and lat
+of various locations from our json data
+ public class AbsoluteLocation {
+
+	private Double latitude;
+	private Double longitude;
+etc...
+
+What is PlaceProvider used for? 
+
+PlaceProvider is used to 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
